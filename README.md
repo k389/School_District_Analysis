@@ -166,7 +166,7 @@ Software: Python 3.6.9:: Anaconda, Inc., Jupyter Notebook, 6.0.2, Visual Studio 
 | Summary before removing the 9th grade math and reading scores | School Type | Total Students | Total School Budget | Per Student Budget | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
 |---------------------------------------------------------------|-------------|----------------|---------------------|--------------------|--------------------|-----------------------|----------------|-------------------|-------------------|
 | Thomas High School                                            | Charter     | 1635           | $1,043,130.00       | $638.00            | 83.418349          | 83.848930             | 93.272171      | 97.308869         | 95.290520         |
-| Summary after removing the 9th grade math and reading scores  |             |                |                     |                    |                    |                       |                |                   |                   |
+| Summary after removing the 9th grade math and reading scores  
 | Thomas High School                                            | Charter     | 1635           | $1,043,130.00       | $638.00            | 83.350937          | 83.896082             | 66.911315      | 69.663609         | 68.287462         |
 	
  - After removal of ninth-grade math and reading scores:
