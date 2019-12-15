@@ -1,8 +1,8 @@
 # School_District_Analysis
 School District Analysis. Python
 
-#Project Overview
-#Analyze school district data on student funding and students’ standardized math and reading test scores to showcase trends on school performance. 
+# Project Overview
+# Analyze school district data on student funding and students’ standardized math and reading test scores to showcase trends on school performance. 
 - Calculate the district summary.
 - Calculate summary for each district school.
 - Calculate the top 5 and bottom 5 performing schools.
@@ -12,12 +12,12 @@ School District Analysis. Python
 - Calculate the school performance based on the size of the school.
 - Calculate the school performance based on the type of school.
 
-#Recourses
+# Recourses
 
 Data Source: schools_complete.csv and students_complete.csv
 Software: Python 3.6.9:: Anaconda, Inc., Jupyter Notebook, 6.0.2, Visual Studio Code, 1.40.2
 
-#Summary
+# Summary
 - There were 15 school and 39,170 students in the data source. 
 
 - The district summary:
@@ -149,7 +149,7 @@ Software: Python 3.6.9:: Anaconda, Inc., Jupyter Notebook, 6.0.2, Visual Studio 
 - Data Source: schools_complete.csv and students_complete.csv
 - Software: Python 3.6.9:: Anaconda, Inc., Jupyter Notebook, 6.0.2, Visual Studio Code, 1.40.2
 
-#Challenge Summary
+# Challenge Summary
 
 - Cleaned the data by removing the professional prefixes or suffixes. 
 - Removed the math and reading scores for ninth-grade students from Thomas High School.
