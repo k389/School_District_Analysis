@@ -12,7 +12,7 @@ School District Analysis. Python
 - Calculate the school performance based on the size of the school.
 - Calculate the school performance based on the type of school.
 
-# Recourses
+# Resourses
 
 Data Source: schools_complete.csv and students_complete.csv
 Software: Python 3.6.9:: Anaconda, Inc., Jupyter Notebook, 6.0.2, Visual Studio Code, 1.40.2
@@ -145,7 +145,7 @@ Software: Python 3.6.9:: Anaconda, Inc., Jupyter Notebook, 6.0.2, Visual Studio 
  - Recalculate the school performance based on the spending per student, the size of the school and the type of the school. 
  - How does removing the ninth-grade scores affect the Math and Reading Scores by Grade, Scores by School Spending, Scores by School Size, Scores by School Type? 
 
-# Recourses
+# Resourses
 - Data Source: schools_complete.csv and students_complete.csv
 - Software: Python 3.6.9:: Anaconda, Inc., Jupyter Notebook, 6.0.2, Visual Studio Code, 1.40.2
 
