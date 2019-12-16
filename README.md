@@ -2,7 +2,7 @@
 School District Analysis. Python
 
 # Project Overview
-# Analyze school district data on student funding and students’ standardized math and reading test scores to showcase trends on school performance. 
+Analyze school district data on student funding and students’ standardized math and reading test scores to showcase trends on school performance. 
 - Calculate the district summary.
 - Calculate summary for each district school.
 - Calculate the top 5 and bottom 5 performing schools.
